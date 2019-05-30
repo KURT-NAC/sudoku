@@ -1,3 +1,3 @@
 ### sudoku exercise
 
-build on web stack
+built using html/less/ts
